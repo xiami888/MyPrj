@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             //测试github
+            //提交测试
             Console.WriteLine("hello word!");
             Console.ReadKey();
         }
